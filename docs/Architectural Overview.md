@@ -1,4 +1,4 @@
-# Architectural Specification: This app Mobile Client
+# Architectural Specification
 
 ## 1. System Overview
 This app is designed around a **Serverless / Fat-Client Architecture** engineered specifically to satisfy strict operating constraints: zero infrastructure overhead, maximum mobile flexibility, and zero local home network exposure. 
